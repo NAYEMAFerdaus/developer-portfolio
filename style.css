@@ -1,0 +1,30 @@
+body{font-family: 'Courier New', Courier, monospace;
+    
+}
+h1{font-size: 40px;
+
+}
+.green-color{
+    color:green;
+}
+section{
+    display: flex;
+    margin-bottom: 100px;
+}
+.half-width{
+    width:40%;
+    padding-left: 2%;
+    
+}
+.half-width img{
+    width:100%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, pink);
+    
+    padding:10px 40px;
+    color: cornsilk;
+    font-weight:700;
+    border-radius: 5px;
+}
